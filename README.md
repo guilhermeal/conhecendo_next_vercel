@@ -7,7 +7,7 @@ This project was create with finality of studies, following the guide by [Youtub
 
   - Initial settings
 
-### Dependences
+### Dependencies
 
 We are use a number of open source libs to work properly:
 
