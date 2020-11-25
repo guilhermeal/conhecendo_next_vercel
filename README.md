@@ -7,7 +7,7 @@ This project was create with finality of studies, following the guide by [Youtub
 
   - Initial settings
 
-### Dependencies
+### Dependences
 
 We are use a number of open source libs to work properly:
 
@@ -72,6 +72,15 @@ export default Home;
 ```sh
 npm run dev
 ```
+
+### Deploy
+[Vercel](https://vercel.com/)
+
+> To deploy in Vercel, I recommend see the video by [Filipe Deschamps](https://www.youtube.com/watch?v=EW7m2WIvFgQ&feature=youtu.be) at Youtube or follow another tutorial. 
+> It's very easy!
+
+##### Demo page:
+https://conhecendo-next-vercel.vercel.app/
 
 ### Todos
 
