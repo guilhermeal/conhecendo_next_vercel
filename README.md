@@ -36,6 +36,42 @@ $ npm install react-dom
 $ node app
 ```
 
+Change script from package.json.
+From:
+```js
+"scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+},
+```
+
+To:
+```js
+"scripts": {
+    "dev": "next dev"
+},
+```
+### Create pages
+
+Create a folder in the root project called "pages" and our pages will be here.
+
+Example:
+```sh
+/pages/index.js
+```
+
+```js
+function Home() {
+  return <div>Home</div>
+}
+
+export default Home;
+```
+
+### Run locally
+
+```sh
+npm run dev
+```
 
 ### Todos
 
